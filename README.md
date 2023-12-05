@@ -12,3 +12,7 @@ this app also shows the source code in micropython and flutter dart file in the 
 this flutter code, your android app help file will show the source code to remind you the format of the flutter source code
 including the micropython code
 
+to see the HM-19 micropython portion of the source code, see screens/help.dart
+
+
+
